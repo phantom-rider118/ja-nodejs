@@ -6,4 +6,4 @@ function nicolle(){
   return "Cacati addosso!";
 }
 
-module.exports = greet;
+module.exports = { greet, nicolle };
