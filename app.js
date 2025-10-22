@@ -6,4 +6,8 @@ function nicolle(){
   return "BUONASERA :) ";
 }
 
-module.exports = { greet, nicolle };
+function messaggiopersonalizzato(){
+  return "questo è un messaggio personalizzato";
+}
+
+module.exports = { greet, nicolle ,messaggiopersonalizzato};
